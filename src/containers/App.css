@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Chrome";
+  src: url("../font/LegioSabinaChrome-8MJ20.ttf");
+}
+
+h1, .title {
+  font-weight: normal;
+  font-family: "Chrome";
+  color: #94c7fe;
+  font-size: 5rem;
+  
+}
